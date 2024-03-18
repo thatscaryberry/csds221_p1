@@ -1,0 +1,142 @@
+body{
+    margin: 10px;
+}
+
+h1 {
+    font-size: 24pt;
+}
+
+h2 {
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 12pt;
+    font-weight: lighter;
+}
+
+h4{
+    font-size: 6pt;
+}
+
+.red-text{
+    color: red;
+}
+
+.UserName{
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+
+.FirstName{
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+
+.LastName{
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+}
+
+.panel > .panel-heading{
+    background-color: rgb(23, 106, 161);
+}
+
+.phoneNumber{
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+
+.fax{
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+
+.email{
+    padding-right: 2.5%;
+    padding-left: 2.5%;
+}
+
+.message{
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+}
+
+.adults{
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+}
+
+.adults-heading{
+  margin-left: -3.25%;
+}
+
+.adults-dropdown {
+    margin-left: -0.5%;
+    width: 100%;
+    height: 32.5px;
+    border-radius: 3px;
+}
+
+.check-in-heading{
+    margin-left: -5.5%;
+    margin-right: 1.5%;
+}
+
+.check-out-heading{
+    margin-left: -18%;
+    margin-right: 1.5%;
+}
+
+.checks{
+    padding-left: -5%;
+    padding-right: -1.5%;
+}
+
+.check-in-date, .check-out-date{
+    width: 135%;
+    height: 35px;
+    border-radius: 3px;
+    margin-left: -2.5%;
+}
+
+.check-out-date-extra{
+  margin-left: -9%;
+}
+
+.days-and-cost{
+   padding-left: 2%;
+   padding-right: 3.5%;
+   width: 107%;
+}
+
+.days-heading{
+    margin-left: -5.5%;
+    margin-right: 1.5%;
+}
+
+.cost-heading{
+    margin-left: -5.5%;
+    margin-right: 1.5%;
+}
+
+.rangePriority{
+    margin-top: 2.5%;
+    margin-bottom: 0%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+}
+
+.priorityType{
+    margin-top: 2.5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.reset-button, .submit-button {
+   border-radius: 10px;
+   padding-left: 5%;
+   padding-right: 5%;
+   margin-left: 1%;
+}
